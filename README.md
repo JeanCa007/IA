@@ -101,6 +101,6 @@ Se recomienda utilizar un entorno virtual (por ejemplo, venv o conda) para gesti
 ¡Las contribuciones son bienvenidas! Si deseas proponer mejoras o correcciones.
 
 # Contacto
-- Autor: [Jean Carlo Alvarez Ramirez
+- Autor: Jean Carlo Alvarez Ramirez
 - Correo: alvarezjeanca07@gmail.com
 - LinkedIn/Portfolio: www.linkedin.com/in/jean-carlo-alvarez-ramirez-9240a6138
