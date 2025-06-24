@@ -1,0 +1,14 @@
+sentence-transformers 
+faiss-cpu 
+numpy 
+fastapi 
+uvicorn
+streamlit 
+requests
+transformers 
+torch 
+pydantic
+bitsandbytes 
+accelerate
+beautifulsoup4
+selenium
