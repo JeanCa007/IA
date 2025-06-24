@@ -8,7 +8,7 @@ import os
 from huggingface_hub import login
 
 # Token HF
-os.environ["HF_HUB_TOKEN"] = "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"
+os.environ["HF_HUB_TOKEN"] = ""
 
 login(os.environ["HF_HUB_TOKEN"]) 
 
